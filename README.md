@@ -1,5 +1,7 @@
 Capstone Project Module 1 - Faza Syafri Nur Rahman - JCDS-1904-015
 
+Membuat Aplikasi Data Pasien Rumah Sakit 
+
 •	Pemrograman project ini menggunakan python.
 •	Data collection, Conditional statement, Looping, penggunaan def function dan beberapa fungsi tambahan lain.
 •	Masing-masing study case minimal memiliki 5 Field (Kolom / Keys) dengan 1 Unique Kolom.
